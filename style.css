@@ -36,3 +36,17 @@ h1 span{
     width: 100%;
 }
 
+section{
+    padding-bottom: 60px;
+}
+
+.second-section{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+h2{
+    font-size: 40px;
+}
